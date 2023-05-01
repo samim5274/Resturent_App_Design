@@ -1,0 +1,9 @@
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\bin\Debug\test.exe.config
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\bin\Debug\test.exe
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\bin\Debug\test.pdb
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\obj\Debug\test.Form1.resources
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\obj\Debug\test.exe
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\obj\Debug\test.pdb
+C:\Users\SAMIM\3D Objects\Desktop\New folder\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
